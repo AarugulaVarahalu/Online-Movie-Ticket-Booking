@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 python manage.py migrate
 
-python manage.py runserver
+# python manage.py runserver
 
 Open your web browser and visit http://127.0.0.1:8000 to access the application.
 
