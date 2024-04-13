@@ -22,7 +22,7 @@ To run the Django Ticket Booking System locally, follow these steps:
    ```bash
    git clone https://github.com/AarugulaVarahalu/Online-Movie-Ticket-Booking.git
 
-cd ticket-booking
+cd Online-Movie-Ticket-Booking
 
 pip install -r requirements.txt
 
