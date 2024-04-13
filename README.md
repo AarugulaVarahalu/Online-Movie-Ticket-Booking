@@ -12,7 +12,7 @@ This is a Django project for managing movie ticket booking.
 
 ## Overview
 
-The Django Ticket Booking System is a web application that allows users to browse available movies, theaters, showtimes, and make reservations and purchases for movie tickets.
+The Django Ticket Booking System is a web application that allows users to browse available movies, theaters, showtimes, and make reservations and purchases for movie tickets and we use authentication without user login we can't access data through APIs.
 
 ## Installation
 
