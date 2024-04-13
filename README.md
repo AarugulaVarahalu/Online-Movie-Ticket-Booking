@@ -62,7 +62,7 @@ The Django Ticket Booking System provides the following API endpoints:
 
 
 
-Models
+##Models
 The Django Ticket Booking System includes the following models:
 
 Movie: Represents a movie with title, director, genre, release date, duration, and synopsis.
