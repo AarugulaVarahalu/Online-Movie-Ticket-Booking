@@ -1,4 +1,4 @@
-# Django Ticket Booking System
+# Django  Online Movie Ticket Booking System
 
 This is a Django project for managing movie ticket booking.
 
@@ -9,8 +9,6 @@ This is a Django project for managing movie ticket booking.
 3. [Usage](#usage)
 4. [API Endpoints](#api-endpoints)
 5. [Models](#models)
-6. [Contributing](#contributing)
-7. [License](#license)
 
 ## Overview
 
@@ -22,7 +20,7 @@ To run the Django Ticket Booking System locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ticket-booking.git
+   git clone https://github.com/AarugulaVarahalu/Online-Movie-Ticket-Booking.git
 
 cd ticket-booking
 
