@@ -33,7 +33,7 @@ python manage.py runserver
 Open your web browser and visit http://127.0.0.1:8000 to access the application.
 
 
-Usage
+## Usage
 Once the application is running, users can perform the following actions:
 
 Register a new account.
@@ -43,7 +43,7 @@ Make reservations and purchases for movie tickets.
 Log out from the account.
 
 
-API Endpoints
+## API Endpoints
 The Django Ticket Booking System provides the following API endpoints:
 
 /register/: Register a new user account.
